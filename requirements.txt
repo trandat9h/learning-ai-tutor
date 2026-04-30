@@ -17,3 +17,4 @@ widgetsnbextension>=4.0  # enables ipywidgets in JupyterLab/Notebook
 
 # ── Visualisation ─────────────────────────────────────────────────────────────
 graphviz>=0.20.0         # Python wrapper (requires OS-level graphviz binary — see note above)
+textual
